@@ -59,8 +59,8 @@ about_sugat = {
     learning: ["DSA", "Maths", "Chemistry", "Physics", "etc."],
     fascinating_things: [
         "Artificial Intelligence",
-        "Quantum and/or Supercomputers",
-        "Path Tracers and/or Game Engines",
+        "Quantum and Supercomputers",
+        "Path Tracers and Game Engines",
         "The Open Source Community",
         "Every Cutie Powerful Transistor in my computers",
         "Video Games, because why not?",
