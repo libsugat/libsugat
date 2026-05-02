@@ -29,7 +29,7 @@ Currently, I am building a CPU path tracing engine in Rust.
 
 ## 👨‍💻 More About Me
 ```rust
-// Since I love low-level systems, it only makes sense to write this in Rust.
+// Since I love low-level systems, it makes sense to write this in Rust.
 
 struct Programmer {
     github_id: String,
