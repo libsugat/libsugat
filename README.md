@@ -1,8 +1,8 @@
 # Hello, I'm **Sugat**
 
-I am a B.Tech student at IIIT Surat, but more importantly, a passionate programmer and explorer of technology. I love demystifying the magic of systems, with a deep appreciation for low-level programming and fundamental computer science.
+I am a B.Tech student at IIIT Surat, but more importantly, a passionate programmer and explorer of technology (A hacker in a dark room). I love demystifying the magic of computer systems, with a deep appreciation for low-level programming and fundamental computer science.
 
-Currently, I am building a CPU path tracing engine in Rust.
+Currently, I am currently trying to build a hobby kernel.
 
 ## 🛠️ Technologies that I primarily use
 
